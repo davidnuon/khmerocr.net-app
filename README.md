@@ -1,4 +1,4 @@
-# khmerocr.net-app
+# Demo for KhmerOCR Using .NET
 KhmerOCR using .NET, only the sample .EXE demo product
 
 First of all, don't expect that this application is a full working application for KhmerOCR, I am publishing here the demo I made using SVM methodology for Khmer letter recognition only.
